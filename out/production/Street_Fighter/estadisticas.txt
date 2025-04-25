@@ -1,0 +1,85 @@
+
+Resultado del turno: Empate
+Jugador seleccionó: Piedra
+Jugador 2 seleccionó: Piedra
+Vidas restantes Jugador 1: 3
+Vidas restantes Jugador 2: 3
+--------------------------
+Resultado del turno: Win
+Jugador seleccionó: Piedra
+Jugador 2 seleccionó: Tijeras
+Vidas restantes Jugador 1: 3
+Vidas restantes Jugador 2: 3
+--------------------------
+Resultado del turno: Lose
+Jugador seleccionó: Tijeras
+Jugador 2 seleccionó: Piedra
+Vidas restantes Jugador 1: 2
+Vidas restantes Jugador 2: 3
+--------------------------
+Resultado del turno: Lose
+Jugador seleccionó: Papel
+Jugador 2 seleccionó: Tijeras
+Vidas restantes Jugador 1: 2
+Vidas restantes Jugador 2: 2
+--------------------------
+Resultado del turno: Lose
+Jugador seleccionó: Papel
+Jugador 2 seleccionó: Tijeras
+Vidas restantes Jugador 1: 2
+Vidas restantes Jugador 2: 1
+--------------------------
+Resultado del turno: Lose
+Jugador seleccionó: Papel
+Jugador 2 seleccionó: Tijeras
+Vidas restantes Jugador 1: 2
+Vidas restantes Jugador 2: 0
+--------------------------
+Resultado del turno: Empate
+Jugador seleccionó: Tijeras
+Jugador 2 seleccionó: Tijeras
+Vidas restantes Jugador 1: 3
+Vidas restantes Jugador 2: 3
+--------------------------
+Resultado del turno: Empate
+Jugador seleccionó: Tijeras
+Jugador 2 seleccionó: Tijeras
+Vidas restantes Jugador 1: 3
+Vidas restantes Jugador 2: 3
+--------------------------
+Resultado del turno: Empate
+Jugador seleccionó: Tijeras
+Jugador 2 seleccionó: Tijeras
+Vidas restantes Jugador 1: 3
+Vidas restantes Jugador 2: 3
+--------------------------
+Resultado del turno: Empate
+Jugador seleccionó: Tijeras
+Jugador 2 seleccionó: Tijeras
+Vidas restantes Jugador 1: 3
+Vidas restantes Jugador 2: 3
+--------------------------
+Resultado del turno: Win
+Jugador seleccionó: Tijeras
+Jugador 2 seleccionó: Papel
+Vidas restantes Jugador 1: 3
+Vidas restantes Jugador 2: 3
+--------------------------
+Resultado del turno: Win
+Jugador seleccionó: Tijeras
+Jugador 2 seleccionó: Papel
+Vidas restantes Jugador 1: 2
+Vidas restantes Jugador 2: 3
+--------------------------
+Resultado del turno: Win
+Jugador seleccionó: Piedra
+Jugador 2 seleccionó: Tijeras
+Vidas restantes Jugador 1: 1
+Vidas restantes Jugador 2: 3
+--------------------------
+Resultado del turno: Win
+Jugador seleccionó: Piedra
+Jugador 2 seleccionó: Tijeras
+Vidas restantes Jugador 1: 0
+Vidas restantes Jugador 2: 3
+--------------------------

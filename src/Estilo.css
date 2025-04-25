@@ -1,0 +1,47 @@
+.Piedra {
+    -fx-font-family: Georgia;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 35px;
+    -fx-padding: 10px;
+    -fx-background-radius: 10px;
+    -fx-border-radius: 10px;
+    -fx-border-color: #000000;
+    -fx-border-width: 2px;
+    -fx-effect: dropshadow(gaussian, #666666, 3, 1, 0, 1);
+    -fx-background-color: linear-gradient(#f5ab16, #f20303);
+}
+.Piedra:hover {
+    -fx-background-color: #f2763d; 
+}
+
+.Tijeras {
+    -fx-font-family: Georgia;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 35px;
+    -fx-padding: 10px;
+    -fx-background-radius: 10px;
+    -fx-border-radius: 10px;
+    -fx-border-color: #000000;
+    -fx-border-width: 2px;
+    -fx-effect: dropshadow(gaussian, #666666, 3, 1, 0, 1);
+    -fx-background-color: linear-gradient(#f5ab16, #f20303);
+}
+.Tijeras:hover {
+    -fx-background-color: #f2763d; 
+}
+
+.Papel {
+    -fx-font-family: Georgia;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 35px;
+    -fx-padding: 10px;
+    -fx-background-radius: 10px;
+    -fx-border-radius: 10px;
+    -fx-border-color: #000000;
+    -fx-border-width: 2px;
+    -fx-effect: dropshadow(gaussian, #666666, 3, 1, 0, 1);
+    -fx-background-color: linear-gradient(#f5ab16, #f20303);
+}
+.Papel:hover {
+    -fx-background-color: #f2763d; 
+}
